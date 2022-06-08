@@ -1,4 +1,4 @@
 # -Mr.Wizard_tools
 
-   uniscan tool
-best i like is pwnxss
+#uniscan tool
+#best tool is = pwnxss
